@@ -6,6 +6,6 @@ public class concessonaria {
         Meucarro.acelerar();
         Meucarro.frear();
         Meucarro.frear();
-        Meucarro.exibirInforamcoes();
+        Meucarro.exibirInforamacoes();
     }
 }
